@@ -2,7 +2,7 @@
 	@File 		main.cpp
 	@Author		JOSIMAR PEREIRA LEITE
 	@country	Brazil
-	@Date		07/06/2021
+	@Date		24/09/2021
 	
 
     Copyright (C) 2021  JOSIMAR PEREIRA LEITE
@@ -63,7 +63,7 @@ int main(void)
 
 	i2c_init(F_CPU);
 	
-	//	GOIANIA (GOI¡S) BRAZIL STATIONS
+	//	GOIANIA (GOI√ÅS) BRAZIL STATIONS
 	//	895		-	PAZ FM						-	89.5
 	//	901		-	RADIO BRASIL CENTRAL		-	90.1
 	//	919		-	VINHA FM					-	91.9
