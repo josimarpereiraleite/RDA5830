@@ -1,7 +1,7 @@
 # RDA5830
 
 <pre>
-      <img align="left" width="350" height="250" src="https://github.com/josimarpereiraleite/RDA5830/blob/main/Images/pinout.jpg"><br />
+      <img align="left" width="250" height="250" src="https://github.com/josimarpereiraleite/RDA5830/blob/main/Images/pinout.jpg"><br />
 </pre>
  
  </pre>
