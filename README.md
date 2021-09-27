@@ -1,7 +1,7 @@
 # RDA5830
 
 <pre>
-      <img align="left" width="390" height="390" src="https://github.com/josimarpereiraleite/PCF8833/blob/main/Images/1.png"><br />
+      <img align="left" width="390" height="390" src="https://github.com/josimarpereiraleite/RDA5830/blob/main/Images/pinout.jpg"><br />
 
       <a href="https://www.youtube.com/watch?v=5Bfq2B82ziA">Demo Video YOUTUBE</a>
       
